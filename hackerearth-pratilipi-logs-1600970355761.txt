@@ -1,0 +1,82 @@
+2020-09-24T17:55:24.984990+00:00 heroku[web.1]: State changed from crashed to starting
+2020-09-24T17:55:25.000000+00:00 app[api]: Build succeeded
+2020-09-24T17:55:28.156636+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-09-24T17:55:31.597492+00:00 app[web.1]: 
+2020-09-24T17:55:31.597507+00:00 app[web.1]: > pratilipi@1.0.0 start /app
+2020-09-24T17:55:31.597507+00:00 app[web.1]: > node app.js
+2020-09-24T17:55:31.597507+00:00 app[web.1]: 
+2020-09-24T17:55:31.824341+00:00 app[web.1]: listining....
+2020-09-24T17:55:32.557803+00:00 heroku[web.1]: State changed from starting to up
+2020-09-24T17:55:35.265581+00:00 heroku[router]: at=info method=GET path="/" host=hackerearth-pratilipi.herokuapp.com request_id=7cf47683-c2e8-4026-adcb-10b39a61336f fwd="223.187.139.45" dyno=web.1 connect=0ms service=21ms status=404 bytes=415 protocol=https
+2020-09-24T17:56:06.253946+00:00 heroku[router]: at=info method=GET path="/start" host=hackerearth-pratilipi.herokuapp.com request_id=11981e1a-aa3e-41f7-b4c4-883d800cd9a6 fwd="223.187.139.45" dyno=web.1 connect=0ms service=9ms status=200 bytes=306 protocol=https
+2020-09-24T17:56:06.249053+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:56:06.249187+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:56:06.249267+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:56:06.249340+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:56:06.249487+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:56:06.249492+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:56:06.658765+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=hackerearth-pratilipi.herokuapp.com request_id=84b654c2-49a9-4eac-a02b-b8632ebf661b fwd="223.187.139.45" dyno=web.1 connect=0ms service=4ms status=404 bytes=426 protocol=https
+2020-09-24T17:57:29.864999+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=1e4a8917-6711-40b8-8e06-f9f046f7de10 fwd="223.187.139.45" dyno=web.1 connect=1ms service=19ms status=200 bytes=235 protocol=https
+2020-09-24T17:57:29.862813+00:00 app[web.1]: 5   0 true
+2020-09-24T17:57:29.863197+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:29.863255+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:29.863310+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:29.863381+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:29.863633+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:29.863634+00:00 app[web.1]:  1 0 0 0 0 0 0
+2020-09-24T17:57:32.544273+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=f986b20d-fa8d-47e1-8602-85635f3c0ae0 fwd="223.187.139.45" dyno=web.1 connect=1ms service=3ms status=200 bytes=235 protocol=https
+2020-09-24T17:57:32.542806+00:00 app[web.1]: 5   1 false
+2020-09-24T17:57:32.542887+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:32.542932+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:32.542968+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:32.543011+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:32.543051+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:32.543092+00:00 app[web.1]:  1 2 0 0 0 0 0
+2020-09-24T17:57:50.780602+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=ca11ddf0-8429-45dc-a7eb-f11ed662d81f fwd="223.187.139.45" dyno=web.1 connect=1ms service=4ms status=200 bytes=235 protocol=https
+2020-09-24T17:57:50.779082+00:00 app[web.1]: 4   0 true
+2020-09-24T17:57:50.779209+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:50.779248+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:50.779285+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:50.779319+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:50.779349+00:00 app[web.1]:  1 0 0 0 0 0 0
+2020-09-24T17:57:50.779378+00:00 app[web.1]:  1 2 0 0 0 0 0
+2020-09-24T17:57:53.180465+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=a5cfc580-f1f5-4c7e-9f60-df0486129a2b fwd="223.187.139.45" dyno=web.1 connect=1ms service=4ms status=200 bytes=235 protocol=https
+2020-09-24T17:57:53.178481+00:00 app[web.1]: 4   1 false
+2020-09-24T17:57:53.178607+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:53.178660+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:53.178749+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:53.178813+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:57:53.178867+00:00 app[web.1]:  1 2 0 0 0 0 0
+2020-09-24T17:57:53.178920+00:00 app[web.1]:  1 2 0 0 0 0 0
+2020-09-24T17:58:06.590770+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=e572c518-7e5e-4b70-a3e7-eb99cf98e489 fwd="223.187.139.45" dyno=web.1 connect=1ms service=4ms status=200 bytes=235 protocol=https
+2020-09-24T17:58:06.588471+00:00 app[web.1]: 5   2 true
+2020-09-24T17:58:06.588606+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:06.588651+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:06.588700+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:06.588750+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:06.588795+00:00 app[web.1]:  1 2 0 0 0 0 0
+2020-09-24T17:58:06.588839+00:00 app[web.1]:  1 2 1 0 0 0 0
+2020-09-24T17:58:09.300342+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=6e344ad0-652b-40ce-b825-653061e4f6b3 fwd="223.187.139.45" dyno=web.1 connect=1ms service=4ms status=200 bytes=235 protocol=https
+2020-09-24T17:58:09.298062+00:00 app[web.1]: 3   1 false
+2020-09-24T17:58:09.298249+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:09.298299+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:09.298333+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:09.298394+00:00 app[web.1]:  0 2 0 0 0 0 0
+2020-09-24T17:58:09.298450+00:00 app[web.1]:  1 2 0 0 0 0 0
+2020-09-24T17:58:09.298742+00:00 app[web.1]:  1 2 1 0 0 0 0
+2020-09-24T17:58:56.579894+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=bd833a97-b66f-4f08-8052-1d9464fdf619 fwd="223.187.139.45" dyno=web.1 connect=1ms service=3ms status=200 bytes=235 protocol=https
+2020-09-24T17:58:56.578227+00:00 app[web.1]: 4   2 true
+2020-09-24T17:58:56.578325+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:56.578370+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:56.578419+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:56.578470+00:00 app[web.1]:  0 2 0 0 0 0 0
+2020-09-24T17:58:56.578515+00:00 app[web.1]:  1 2 1 0 0 0 0
+2020-09-24T17:58:56.578560+00:00 app[web.1]:  1 2 1 0 0 0 0
+2020-09-24T17:58:57.240472+00:00 heroku[router]: at=info method=POST path="/set" host=hackerearth-pratilipi.herokuapp.com request_id=37503419-49ab-40c8-9523-cc440dc86c78 fwd="223.187.139.45" dyno=web.1 connect=1ms service=4ms status=200 bytes=238 protocol=https
+2020-09-24T17:58:57.239165+00:00 app[web.1]: 2   1 false
+2020-09-24T17:58:57.239186+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:57.239261+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:57.239319+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:57.239320+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:57.239344+00:00 app[web.1]:  0 0 0 0 0 0 0
+2020-09-24T17:58:57.239381+00:00 app[web.1]:  0 0 0 0 0 0 0
