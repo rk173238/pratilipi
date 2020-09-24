@@ -24,7 +24,7 @@ Testing the app in localhost:-
 3.page will show if it was valid/invalid or winning move
 
 This App is also deployed on the server provided by heroku:-
-Api Url is:-
+Api Url is:-https://hackerearth-pratilipi.herokuapp.com/
 
 To test this deployed api open testdeployment.html 
 
